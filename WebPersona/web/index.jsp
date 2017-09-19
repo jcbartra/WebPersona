@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>primera prueba de reposición</h1>
+        <h1>Segunda prueba de reposición</h1>
     </body>
 </html>
